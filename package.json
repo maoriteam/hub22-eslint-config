@@ -2,10 +2,13 @@
   "name": "@hub22/eslint-config",
   "version": "1.0.0",
   "description": "Hub22 eslint configuration",
-  "private": false,
+  "keywords": [
+    "hub22", "hub22-linter"
+  ],
   "repository": {
     "url": "maoriteam/hub22-eslint-config"
   },
+  "homepage": "https://github.com/maoriteam/hub22-eslint-config#readme",
   "main": "index.js",
   "author": "rozzettimatheus",
   "license": "MIT",
