@@ -1,0 +1,32 @@
+{
+  "name": "@hub22/eslint-config",
+  "version": "1.0.0",
+  "description": "Hub22 eslint configuration",
+  "private": false,
+  "repository": {
+    "url": "maoriteam/hub22-eslint-config"
+  },
+  "main": "index.js",
+  "author": "rozzettimatheus",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.54.0",
+    "typescript": ">=5"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "5.0.0-alpha.2",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^3.0.0"
+  }
+}
